@@ -1,18 +1,29 @@
-# PASDiff
+<div align="center">
 
-[ECCV 2026] PASDiff: Physics-Aware Semantic Guidance for Joint Real-World Low-Light Face Enhancement and Restoration
+# PASDiff: Physics-Aware Semantic Guidance for Joint Real-World Low-Light Face Enhancement and Restoration
 
+[Yilin Ni](https://github.com/YlNi26)<sup>1,*</sup>, [Wenjie Li](https://24wenjie-li.github.io/)<sup>2,*</sup>, [Zhengxue Wang](#)<sup>3</sup>, [Juncheng Li](#)<sup>4</sup>, [Guangwei Gao](https://guangweigao.github.io/)<sup>3,†</sup>, and [Jian Yang](https://www.patternrecognition.asia/jian/)<sup>3</sup>
 
-This is the official repository for our ECCV 2026 paper. The codebase and dataset are currently being prepared for public release. 
+🚩 **Accepted to ECCV 2026**
 
-We will upload the following three components soon:
+• [ [arXiv](https://arxiv.org/pdf/2603.24969) ] •
 
-* **Complete Codebase:** The full implementation of our training and inference pipelines.
-* **Pre-trained Weights:** Official model checkpoints ready for evaluation and deployment.
-* **WildDark-Face Dataset:** Our real-world benchmark dataset for low-light face enhancement and restoration.
+<br>
 
-Thank you for your patience and interest in our work. Stay tuned!
+<img src="assets/network.png" width="95%">
 
+<br>
+
+⭐ *If PASDiff is helpful to your paper or project, please consider starring this repo or citing our paper. Thanks!* 🤗
+
+</div>
+
+---
+
+## 📮 Updates
+
+* **2026.07.21:** Codes, checkpoints, and datasets are released.
+* **2026.06.23:** This repo is created.
 
 
 ### Citation
