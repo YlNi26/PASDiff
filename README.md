@@ -54,9 +54,9 @@ Download all the necessary pre-trained weights for our PASDiff (except SD2.1) fr
 
 Since the official Stable Diffusion 2.1 is not available, you could visit [ModelScope](https://modelscope.cn/models/stabilityai/stable-diffusion-2-1-base) to download it and use it locally. Put the model in the `checkpoints` folder as well.
 
-**Download WildDark-Face Test dataset:**
+**Download WildDark-Face dataset:**
 
-Download the real-world low-light face photo test set that collected from the Internet called `WildDark-Face` from [Google Drive](https://drive.google.com/file/d/1ZaQ0LaWCTmAhZo2fnMgtnrPHI1llG5kg/view?usp=drive_link). If you would like to test on these photos, please put them in the `inputs` folder.
+Download the real-world low-light face photo set that collected from the Internet called `WildDark-Face` from [Google Drive](https://drive.google.com/file/d/1ZaQ0LaWCTmAhZo2fnMgtnrPHI1llG5kg/view?usp=drive_link). If you would like to test on these photos, please put them in the `inputs` folder.
 
 **Quick Inference:**
 
@@ -66,7 +66,7 @@ To perform a quick inference, simply run the following command in your terminal:
 python inference.py --in_dir ./inputs/test --out_dir ./outputs/result_test
 ```
 
-If you want to achieve the exact visual results on the WildDark-Face dataset as shown in our paper, you can easily do this by setting the `--retinex_type` argument to `real`:
+If you want to achieve the exact visual results on the WildDark-Face dataset as shown in our paper, please set the `--retinex_type` argument to `real`:
 
 ```
 python inference.py --in_dir ./inputs/WildDark-Face --out_dir ./outputs/result_WildDark-Face --retinex_type real
