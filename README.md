@@ -32,7 +32,7 @@
 
 ```bash
 # git clone this repository
-git clone [https://github.com/YlNi26/PASDiff.git](https://github.com/YlNi26/PASDiff.git)
+git clone https://github.com/YlNi26/PASDiff.git
 cd PASDiff
 
 # create new anaconda env
