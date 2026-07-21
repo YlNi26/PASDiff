@@ -32,7 +32,7 @@
 
 ```bash
 # git clone this repository
-git clone https://github.com/YlNi26/PASDiff.git
+git clone [https://github.com/YlNi26/PASDiff.git](https://github.com/YlNi26/PASDiff.git)
 cd PASDiff
 
 # create new anaconda env
@@ -43,9 +43,10 @@ conda activate pasdiff
 conda install mpi4py
 pip3 install -r requirements.txt
 pip install -e .
+```
 
 
-### Citation
+### 📝 Citation
 If our work is useful for your research, please consider citing:
 
     @inproceedings{ni2026pasdiff,
@@ -56,5 +57,5 @@ If our work is useful for your research, please consider citing:
     }
 
 
-### Contact
+### 📧 Contact
 If you have any questions, please feel free to reach me out at `lewj2408@gmail.com` or `nixiaolin26@gmail.com`. 
