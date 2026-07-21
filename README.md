@@ -28,6 +28,23 @@
 * **2026.06.23:** This repo is created.
 
 
+## 🔧 Dependencies and Installation
+
+```bash
+# git clone this repository
+git clone [https://github.com/YlNi26/PASDiff.git](https://github.com/YlNi26/PASDiff.git)
+cd PASDiff
+
+# create new anaconda env
+conda create -n pasdiff python=3.8 -y
+conda activate pasdiff
+
+# install python dependencies
+conda install mpi4py
+pip3 install -r requirements.txt
+pip install -e .
+
+
 ### Citation
 If our work is useful for your research, please consider citing:
 
