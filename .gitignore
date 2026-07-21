@@ -1,0 +1,16 @@
+__pycache__/
+*.py[codz]
+*.pyo
+*.pth
+*.pt
+*.ckpt
+/weights/
+/checkpoints/
+/datasets/
+/data/
+/results/
+/outputs/
+.vscode/
+.idea/
+.venv/
+venv/
