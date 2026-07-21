@@ -28,11 +28,11 @@
 * **2026.06.23:** This repo is created.
 
 
-## 🔧 Dependencies and Installation
+## 🛠️ Dependencies and Installation
 
 ```bash
 # git clone this repository
-git clone [https://github.com/YlNi26/PASDiff.git](https://github.com/YlNi26/PASDiff.git)
+git clone https://github.com/YlNi26/PASDiff.git
 cd PASDiff
 
 # create new anaconda env
