@@ -8,7 +8,7 @@
 
 🚩 **Accepted to ECCV 2026**
 
-• [ [arXiv](https://arxiv.org/pdf/2603.24969) ] •
+• [ [arXiv](https://arxiv.org/pdf/2603.24969) ] • [ [Appendix](https://guangweigao.github.io/paper/26-ECCV-Supplements.pdf) ] •
 
 <br>
 
