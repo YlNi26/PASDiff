@@ -2,7 +2,9 @@
 
 # PASDiff: Physics-Aware Semantic Guidance for Joint Real-World Low-Light Face Enhancement and Restoration
 
-[Yilin Ni](https://github.com/YlNi26)<sup>1,*</sup>, [Wenjie Li](https://24wenjie-li.github.io/)<sup>2,*</sup>, [Zhengxue Wang](#)<sup>3</sup>, [Juncheng Li](#)<sup>4</sup>, [Guangwei Gao](https://guangweigao.github.io/)<sup>3,†</sup>, and [Jian Yang](https://www.patternrecognition.asia/jian/)<sup>3</sup>
+[Yilin Ni](https://github.com/YlNi26)<sup>1,*</sup> &nbsp;&nbsp; [Wenjie Li](https://24wenjie-li.github.io/)<sup>2,*</sup> &nbsp;&nbsp; [Zhengxue Wang](#)<sup>3</sup> &nbsp;&nbsp; [Juncheng Li](#)<sup>4</sup> &nbsp;&nbsp; [Guangwei Gao](https://guangweigao.github.io/)<sup>3,†</sup> &nbsp;&nbsp; [Jian Yang](https://www.patternrecognition.asia/jian/)<sup>3</sup>
+
+<sup>1</sup>College of Automation, Nanjing University of Posts and Telecommunications, Nanjing, China &nbsp;&nbsp;&nbsp; <sup>2</sup>School of Artificial Intelligence, Beijing University of Posts and Telecommunications, Beijing, China &nbsp;&nbsp;&nbsp; <sup>3</sup>PCA Lab, School of Computer Science and Engineering, Nanjing University of Science and Technology, Nanjing, China &nbsp;&nbsp;&nbsp; <sup>4</sup>School of Computer Science and Technology, East China Normal University, Shanghai, China
 
 🚩 **Accepted to ECCV 2026**
 
@@ -14,7 +16,7 @@
 
 <br>
 
-⭐ *If PASDiff is helpful to your paper or project, please consider starring this repo or citing our paper. Thanks!* 🤗
+⭐ *If PASDiff is helpful for you, please consider starring this repo or citing our paper. Thanks!* 🤗
 
 </div>
 
