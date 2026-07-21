@@ -30,7 +30,7 @@
 
 ## 🛠️ Dependencies and Installation
 
-```bash
+```
 # git clone this repository
 git clone https://github.com/YlNi26/PASDiff.git
 cd PASDiff
