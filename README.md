@@ -47,17 +47,15 @@ pip install -e .
 
 ## 🚀 Inference
 
-###  Download Pre-trained Models:
+**Download Pre-trained Models:**
 
-Download all the necessary pre-trained weights for our PASDiff (except SD2.1) from [Google Drive](#), and extract them into the `checkpoints` folder.
+Download all the necessary pre-trained weights for our PASDiff (except SD2.1) from [Google Drive](https://drive.google.com/file/d/1qFzJsiGjhY1l4BBBpT2GvBHegjoq9x-_/view?usp=drive_link). Put the models in the `checkpoints/` folder. 
 
-For the base Stable Diffusion 2.1 model, since the file is quite large, please download the official weights from [Hugging Face](https://huggingface.co/stabilityai/stable-diffusion-2-1-base) or [ModelScope](https://www.modelscope.cn/models/AI-ModelScope/stable-diffusion-2-1-base/summary), and also place it into the `checkpoints` folder.
+Since the official Stable Diffusion 2.1 is not available, you could visit [ModelScope](https://modelscope.cn/models/stabilityai/stable-diffusion-2-1-base) to download it and use it locally. Put the model in the `checkpoints/` folder as well.
 
-###  Download Dataset:
+**Download WildDark-Face Test dataset:**
 
-Download our constructed RDF benchmark dataset for real-world low-light face enhancement and restoration from [Google Drive](#). You can put the testing images in the `inputs/RDF` folder.
-
-###  Quick Inference:
+Download the real-world low-light face photo test set that collected from the Internet called `WildDark-Face` from [Google Drive](https://drive.google.com/file/d/1ZaQ0LaWCTmAhZo2fnMgtnrPHI1llG5kg/view?usp=drive_link). If you would like to test on these photos, please put them in the `inputs/` folder.
 
 
 ### 📝 Citation
